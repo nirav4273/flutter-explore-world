@@ -2,15 +2,8 @@
 
 A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+##### Design ref : https://medium.muz.li/weekly-inspiration-for-designers-156-cf8ce3ed7b4d
+#
+#
+<img src="https://firebasestorage.googleapis.com/v0/b/studentproject-8fe66.appspot.com/o/Screenshot_20181216-151242.jpg?alt=media&token=bbfe798b-b1e3-4c71-9379-6d238b1bc0d5" width="250" height="410" alt="Brand-first shopping design" align="left">
